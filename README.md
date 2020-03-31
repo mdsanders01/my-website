@@ -9,6 +9,5 @@ Hello!
 Edited
 
 Edited now locally as well
-
-
-WHAT?!?!
+This file is being edited.
+Edited now locally as well
